@@ -6,7 +6,7 @@ void setup() {
   noStroke(); 
   smooth(); 
   noLoop();
-  background(random(255), 230, 70);
+  background(random(255), 230, 215);
 }
 
 void draw() {

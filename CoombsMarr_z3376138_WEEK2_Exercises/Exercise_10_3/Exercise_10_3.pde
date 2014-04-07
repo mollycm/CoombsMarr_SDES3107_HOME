@@ -1,4 +1,4 @@
-//This program loads a GIF image with tranparency and creates a 
+//This program loads an image with tranparency and creates a 
 //collage by layering the image
 
 size(260,600);

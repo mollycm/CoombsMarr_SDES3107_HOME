@@ -1,4 +1,6 @@
 //This is excersise 3.2 
+//Makes a few int and float variables.  
+//Write the values to the console with println().
 
 int x = 20;
 int y = 80;

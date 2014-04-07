@@ -8,9 +8,7 @@ void setup(){  //runs these commands once
   //sets canvas
   size(500,500);
   smooth();      // smooths out curves
-
-  
-  
+   
 }
 
 

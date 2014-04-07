@@ -6,6 +6,7 @@ PFont font;
 font = loadFont("Helvetica-Light-48.vlw");
 textFont(font);
 fill(155,90,155);
+textAlign(CENTER);
 text("Bug", width/2,height/2);
 
 

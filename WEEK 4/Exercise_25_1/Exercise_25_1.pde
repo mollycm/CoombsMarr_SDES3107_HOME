@@ -14,10 +14,10 @@ void setup() {
 void draw() {
   background(204);
   line(x, y, 157, 400);
-  if ((keyPressed == true) && (key == 'm')){
+  if ((keyPressed == true) && (key == '1')){
     x += 1;
     y += 3;
-  } else if (key == 'l'){
+  } else if (key == '2'){
     x += 1;
     y += 2;
   }
